@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["56928561853", 'MichiBot', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["56941827124"], 
+["5215611741070"], 
 ["56941827124"],
 ["56941827124"],
 ["51964767711"],
@@ -126,9 +126,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["56941827124", 'MichiBot', 1], 
-["56928561853", 'MichiBot', 1],  
-["56941827124", 'MichiBot', 1]]
+["56941827124", 'SuspendidoBot', 1], 
+["56928561853", 'SuspendidoBot', 1],  
+["56941827124", 'SuspendidoBot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -136,8 +136,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `MichiBot` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = `MichiBot` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `SuspendidoBot` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
+global.author = `SuspendidoBot` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -145,7 +145,7 @@ global.author = `MichiBot` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
-global.gt = "MichiBot"
+global.gt = "SuspendidoBot"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -171,8 +171,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "SuspendidoBot"
+global.igfg = "SuspendidoBot"
 global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -451,15 +451,15 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://www.instagram.com/ceogeripium.dzn'
-global.ig = 'https://www.instagram.com/ceogeripium.dzn'
-global.md = 'https://www.instagram.com/ceogeripium.dzn'
-global.fb = 'https://www.instagram.com/richetti_123'
-global.tk = 'https://www.instagram.com/richetti_123'
-global.ths = 'https://www.instagram.com/richetti_123'
+global.yt = 'https://wa.me/5215611741070'
+global.ig = 'https://wa.me/5215611741070'
+global.md = 'https://wa.me/5215611741070'
+global.fb = 'https://wa.me/5215611741070'
+global.tk = 'https://wa.me/5215611741070'
+global.ths = 'https://wa.me/5215611741070'
 global.paypal = 'https://paypal.me/richetti123'
-global.asistencia = 'https://wa.me/56928561853'
-global.all = 'https://www.instagram.com/richetti_123'
+global.asistencia = 'https://wa.me/5215611741070'
+global.all = 'https://wa.me/5215611741070'
 global.canal1 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
 global.canal2 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
 global.canal3 = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M'
